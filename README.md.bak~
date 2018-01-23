@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="112" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="106" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,127 +9,120 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue Jan 23 15:18:31 2018
-</m>
 <m key="abiword.generator">AbiWord</m>
-<m key="dc.date">Tue Jan 23 15:18:31 2018
-</m>
 <m key="dc.format">application/x-abiword</m>
 </metadata>
 <rdf>
 </rdf>
-<history version="1" edit-time="1800" last-saved="1516738711" uid="b956221c-0077-11e8-9394-b6ca7707cd48">
-<version id="1" started="1516738711" uid="94b95372-007a-11e8-9394-b6ca7707cd48" auto="0" top-xid="112"/>
-</history>
 <styles>
 <s type="P" name="Normal" basedon="" followedby="Current Settings" props="font-family:Liberation Serif; margin-top:0pt; font-variant:normal; margin-left:0pt; text-indent:0in; widows:2; font-style:normal; font-weight:normal; text-decoration:none; color:000000; line-height:1.0; text-align:left; margin-bottom:0pt; text-position:normal; margin-right:0pt; bgcolor:transparent; font-size:12pt; font-stretch:normal"/>
 </styles>
-<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
-<section xid="6">
-<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr">## Clone this repository. </p>
-<p style="Normal" xid="8"><c></c></p>
-<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">You will do this exercise in groups. </p>
-<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">One person should type in the inputs. </p>
-<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr">One person should type in the outputs. </p>
-<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr">One person should type in the processes. </p>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="1">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr">## Clone this repository. </p>
+<p style="Normal" xid="3"><c></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr">You will do this exercise in groups. </p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr">One person should type in the inputs. </p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">One person should type in the outputs. </p>
+<p style="Normal" xid="7"><c></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr">One person should type in the processes. </p>
+<p style="Normal" xid="9"><c></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">### Put each IPO in a different file.  </p>
+<p style="Normal" xid="11"><c></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr">## Hello world - where does the output go, and why? </p>
 <p style="Normal" xid="13"><c></c></p>
-<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr">### Put each IPO in a different file.  </p>
-<p style="Normal" xid="15"><c></c></p>
-<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr">## Hello world - where does the output go, and why? </p>
-<p style="Normal" xid="17"><c></c></p>
-<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr">|Input              |Process                                 |Output                                               |</p>
-<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr">|-------------------|----------------------------------------|---------------------                                  |How do I          |<c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Listen to the </c></p>
-<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">|get to the          | question and think </c></p>
-<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">|bathroom?        | about an answer</c></p>
-<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr">		|	</p>
-<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr"><c></c>Check your mood|    |<c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Determine the manner </c></p>
-<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			and tone to use to </c></p>
-<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Person thanks you     communicate with </c></p>
-<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			the person asking </c></p>
-<p style="Normal" xid="82" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			the question.</c></p>
-<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			Determine where </c></p>
-<p style="Normal" xid="75" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			the bathroom is in</c></p>
-<p style="Normal" xid="76" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			relation to your </c></p>
-<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			current location</c></p>
-<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="84" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			Determine the landmarks </c></p>
-<p style="Normal" xid="86" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			that should be used to identify</c></p>
-<p style="Normal" xid="87" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"> 			if the user is on the right track,</c></p>
-<p style="Normal" xid="88" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="89" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			Customer Service, or the </c></p>
-<p style="Normal" xid="90" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			student lounge </c></p>
-<p style="Normal" xid="91" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="92" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			</c><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Determine the landmarks</c></p>
-<p style="Normal" xid="93" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			 that should be used to determine</c></p>
-<p style="Normal" xid="94" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			 if the user has gone too far, e.g.</c></p>
-<p style="Normal" xid="95" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
-<p style="Normal" xid="96" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			Room 408 (the room with a </c></p>
-<p style="Normal" xid="98" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			full-length glass window to the side)</c></p>
-<p style="Normal" xid="99" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
-<p style="Normal" xid="100" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			</c><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">If you are in a good mood</c></p>
-<p style="Normal" xid="103" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="101" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			If you are not in a good mood</c></p>
-<p style="Normal" xid="104" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="105" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">			</c><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Determine the level of specificity </c></p>
-<p style="Normal" xid="107" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			the person asking the question will </c></p>
-<p style="Normal" xid="108" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			need - should I ask them to count steps,</c></p>
-<p style="Normal" xid="109" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			 or will vague directions be enough? Tailor</c></p>
-<p style="Normal" xid="110" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			 your output to the desired audience.</c></p>
-<p style="Normal" xid="111" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			Understand that gratitude has been </c></p>
-<p style="Normal" xid="112" props="text-align:left; dom-dir:ltr"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">			expressed and respond accordingly</c></p>
-<p style="Normal" xid="106" props="font-family:Liberation Serif; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-US; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
-<p style="Normal" xid="102" props="font-family:Liberation Serif; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-US; text-decoration:none; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; line-height:1.000000; margin-bottom:0.0000in; text-align:left; margin-right:0.0000in; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
-<p style="Normal" xid="23" props="font-family:Liberation Serif; font-size:12pt; color:000000; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">|         |</p>
-<p style="Normal" xid="25"><c></c></p>
-<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr">### Determine the inputs processes and outputs when someone asks for the bathroom: </p>
-<p style="Normal" xid="27"><c></c></p>
-<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr">Question: How do I get to the bathroom?</p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr">|Input              |Process                                 |Output                                               |</p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr">|-------------------|----------------------------------------|---------------------                                  |How do I          |Listen to the 					<c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Smile</c>			</p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr">|get to the          | question and think </p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr">|bathroom?        | about an answer</p>
+<p style="Normal" xid="18">		|	</p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr">Check your mood|    |Determine the manner 			<c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Don't smile, but try not to be rude </c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr">			and tone to use to </p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">Person thanks you     communicate with </p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr">			the person asking </p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr">			the question.</p>
+<p style="Normal" xid="24"><c></c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr">			Determine where 			<c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Speak: When you leave this room 					                                  (room 440/441), turn left and                continue past the elevators.</c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr">			the bathroom is in</p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr">			relation to your </p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr">			current location</p>
 <p style="Normal" xid="29"><c></c></p>
-<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr">Person thanks you</p>
-<p style="Normal" xid="31"><c></c></p>
-<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr">Smile</p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr">			Determine the landmarks </p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr">			that should be used to identify</p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"> 			if the user is on the right track,</p>
 <p style="Normal" xid="33"><c></c></p>
-<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr">Don't smile, but try not to be rude </p>
-<p style="Normal" xid="35"><c></c></p>
-<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr">Check your mood</p>
-<p style="Normal" xid="37"><c></c></p>
-<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr">Listen to the question and think about an answer</p>
-<p style="Normal" xid="39"><c></c></p>
-<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr">Determine where the bathroom is in relation to your current location</p>
-<p style="Normal" xid="41"><c></c></p>
-<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr">Determine the manner and tone to use to communicate with the person asking the question.</p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr">			Customer Service, or the </p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr">			student lounge </p>
+<p style="Normal" xid="36"><c></c></p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr">			Determine the landmarks</p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr">			 that should be used to determine</p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr">			 if the user has gone too far, e.g.</p>
+<p style="Normal" xid="40"><c></c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr">			Room 408 (the room with a </p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr">			full-length glass window to the side)</p>
 <p style="Normal" xid="43"><c></c></p>
-<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr">If you are in a good mood<c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Customer Service, or the student lounge</c></p>
-<p style="Normal" xid="45"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Room 408 (the room with a full-length glass window to the side)</c></p>
-<p style="Normal" xid="46" props="font-family:Liberation Serif; font-size:12pt; dom-dir:ltr; lang:en-US; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">If you are not in a good mood</p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr">			If you are in a good mood</p>
+<p style="Normal" xid="45"><c></c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr">			If you are not in a good mood</p>
 <p style="Normal" xid="47"><c></c></p>
-<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr">Determine the level of specificity the person asking the question will need - should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience.</p>
-<p style="Normal" xid="49"><c></c></p>
-<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr">Determine the landmarks that should be used to identify if the user is on the right track, e.g. </p>
-<p style="Normal" xid="51"><c></c></p>
-<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr">Customer Service, or the student lounge</p>
-<p style="Normal" xid="53"><c></c></p>
-<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr">Determine the landmarks that should be used to determine if the user has gone too far, e.g.</p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr">			Determine the level of specificity </p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr">			the person asking the question will </p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr">			need - should I ask them to count steps,</p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr">			 or will vague directions be enough? Tailor</p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr">			 your output to the desired audience.</p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr">			Understand that gratitude has been </p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr">			expressed and respond accordingly</p>
 <p style="Normal" xid="55"><c></c></p>
-<p style="Normal" xid="56" props="text-align:left; dom-dir:ltr">Room 408 (the room with a full-length glass window to the side)</p>
-<p style="Normal" xid="57"><c></c></p>
-<p style="Normal" xid="58" props="text-align:left; dom-dir:ltr">Understand that gratitude has been expressed and respond accordingly</p>
-<p style="Normal" xid="59"><c></c></p>
-<p style="Normal" xid="60" props="text-align:left; dom-dir:ltr">Speak: When you leave this room (room 440/441), turn left and continue past the elevators.</p>
-<p style="Normal" xid="61"><c></c></p>
-<p style="Normal" xid="62" props="text-align:left; dom-dir:ltr">Speak:Turn left just before the glass doors to the reception. Look for the bathrooms on your left.  </p>
-<p style="Normal" xid="63"><c></c></p>
-<p style="Normal" xid="64" props="text-align:left; dom-dir:ltr">Stay silent</p>
-<p style="Normal" xid="65"><c></c></p>
-<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr">Speak: You're welcome </p>
-<p style="Normal" xid="67"><c></c></p>
-<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr">### Write an IPO for the directions to Subway.</p>
-<p style="Normal" xid="69"><c></c></p>
-<p style="Normal" xid="70" props="text-align:left; dom-dir:ltr">Upload this project to an organisation's repository and submit the link in the assignment. </p>
-<p style="Normal" xid="71"><c></c></p>
+<p style="Normal" xid="56"><c></c></p>
+<p style="Normal" xid="57">|         |</p>
+<p style="Normal" xid="58"><c></c></p>
+<p style="Normal" xid="59" props="text-align:left; dom-dir:ltr">### Determine the inputs processes and outputs when someone asks for the bathroom: </p>
+<p style="Normal" xid="60"><c></c></p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr">Question: How do I get to the bathroom?</p>
+<p style="Normal" xid="62"><c></c></p>
+<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr">Person thanks you</p>
+<p style="Normal" xid="64"><c></c></p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr">Smile</p>
+<p style="Normal" xid="66"><c></c></p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr">Don't smile, but try not to be rude </p>
+<p style="Normal" xid="68"><c></c></p>
+<p style="Normal" xid="69" props="text-align:left; dom-dir:ltr">Check your mood</p>
+<p style="Normal" xid="70"><c></c></p>
+<p style="Normal" xid="71" props="text-align:left; dom-dir:ltr">Listen to the question and think about an answer</p>
 <p style="Normal" xid="72"><c></c></p>
-<p style="Normal" xid="73"></p>
+<p style="Normal" xid="73" props="text-align:left; dom-dir:ltr">Determine where the bathroom is in relation to your current location</p>
+<p style="Normal" xid="74"><c></c></p>
+<p style="Normal" xid="75" props="text-align:left; dom-dir:ltr">Determine the manner and tone to use to communicate with the person asking the question.</p>
+<p style="Normal" xid="76"><c></c></p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr">If you are in a good moodCustomer Service, or the student lounge</p>
+<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr">Room 408 (the room with a full-length glass window to the side)</p>
+<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr">If you are not in a good mood</p>
+<p style="Normal" xid="80"><c></c></p>
+<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr">Determine the level of specificity the person asking the question will need - should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience.</p>
+<p style="Normal" xid="82"><c></c></p>
+<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr">Determine the landmarks that should be used to identify if the user is on the right track, e.g. </p>
+<p style="Normal" xid="84"><c></c></p>
+<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr">Customer Service, or the student lounge</p>
+<p style="Normal" xid="86"><c></c></p>
+<p style="Normal" xid="87" props="text-align:left; dom-dir:ltr">Determine the landmarks that should be used to determine if the user has gone too far, e.g.</p>
+<p style="Normal" xid="88"><c></c></p>
+<p style="Normal" xid="89" props="text-align:left; dom-dir:ltr">Room 408 (the room with a full-length glass window to the side)</p>
+<p style="Normal" xid="90"><c></c></p>
+<p style="Normal" xid="91" props="text-align:left; dom-dir:ltr">Understand that gratitude has been expressed and respond accordingly</p>
+<p style="Normal" xid="92"><c></c></p>
+<p style="Normal" xid="93" props="text-align:left; dom-dir:ltr">Speak: When you leave this room (room 440/441), turn left and continue past the elevators.</p>
+<p style="Normal" xid="94"><c></c></p>
+<p style="Normal" xid="95" props="text-align:left; dom-dir:ltr">Speak:Turn left just before the glass doors to the reception. Look for the bathrooms on your left.  </p>
+<p style="Normal" xid="96"><c></c></p>
+<p style="Normal" xid="97" props="text-align:left; dom-dir:ltr">Stay silent</p>
+<p style="Normal" xid="98"><c></c></p>
+<p style="Normal" xid="99" props="text-align:left; dom-dir:ltr">Speak: You're welcome </p>
+<p style="Normal" xid="100"><c></c></p>
+<p style="Normal" xid="101" props="text-align:left; dom-dir:ltr">### Write an IPO for the directions to Subway.</p>
+<p style="Normal" xid="102"><c></c></p>
+<p style="Normal" xid="103" props="text-align:left; dom-dir:ltr">Upload this project to an organisation's repository and submit the link in the assignment. </p>
+<p style="Normal" xid="104"><c></c></p>
+<p style="Normal" xid="105"><c></c></p>
+<p style="Normal" xid="106"></p>
 </section>
 </abiword>

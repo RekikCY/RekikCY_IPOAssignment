@@ -11,36 +11,36 @@ One person should type in the processes.
 ## Hello world - where does the output go, and why? 
 
 |Input              |Process                                 |Output                                               |
-|-------------------|----------------------------------------|---------------------                                  |How do I          |Listen to the 
+|-------------------|----------------------------------------|---------------------                                  |How do I          |Listen to the 					Smile			
 |get to the          | question and think 
 |bathroom?        | about an answer
 		|	
-Check your mood|    |Determine the manner 
+Check your mood|    |Determine the manner 			Don't smile, but try not to be rude 
 			and tone to use to 
 Person thanks you     communicate with 
 			the person asking 
 			the question.
 
-			Determine where 
+			Determine where 			
 			the bathroom is in
 			relation to your 
-			current location
+			current location			Speak: When you leave this room 					                                  (room 440/441), turn left continue            		                                                                       past the elevators.
 
 			Determine the landmarks 
 			that should be used to identify
- 			if the user is on the right track,
+ 			if the user is on the right track,	Speak:Turn left just before the                 								glass doors to the reception. Look 								for the bathrooms on your left.
 
 			Customer Service, or the 
 			student lounge 
 
 			Determine the landmarks
 			 that should be used to determine
-			 if the user has gone too far, e.g.
+			 if the user has gone too far, e.g.		Stay silent 	
 
 			Room 408 (the room with a 
 			full-length glass window to the side)
 
-			If you are in a good mood
+			If you are in a good mood			Speak: You're welcome
 
 			If you are not in a good mood
 
