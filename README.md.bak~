@@ -9,11 +9,18 @@
 <!-- ======================================================================== -->
 
 <metadata>
+<m key="abiword.date_last_changed">Tue Jan 23 15:18:31 2018
+</m>
 <m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Tue Jan 23 15:18:31 2018
+</m>
 <m key="dc.format">application/x-abiword</m>
 </metadata>
 <rdf>
 </rdf>
+<history version="1" edit-time="1800" last-saved="1516738711" uid="b956221c-0077-11e8-9394-b6ca7707cd48">
+<version id="1" started="1516738711" uid="94b95372-007a-11e8-9394-b6ca7707cd48" auto="0" top-xid="112"/>
+</history>
 <styles>
 <s type="P" name="Normal" basedon="" followedby="Current Settings" props="font-family:Liberation Serif; margin-top:0pt; font-variant:normal; margin-left:0pt; text-indent:0in; widows:2; font-style:normal; font-weight:normal; text-decoration:none; color:000000; line-height:1.0; text-align:left; margin-bottom:0pt; text-position:normal; margin-right:0pt; bgcolor:transparent; font-size:12pt; font-stretch:normal"/>
 </styles>
