@@ -10,12 +10,12 @@ One person should type in the processes.
 
 ## Hello world - where does the output go, and why? 
 
-|Input              |Process                                 |Output                                               |
-|-------------------|----------------------------------------|---------------------                                  |How do I          |Listen to the 					Smile			
-|get to the          | question and think 
-|bathroom?        | about an answer
-		|	
-Check your mood|    |Determine the manner 			Don't smile, but try not to be rude 
+Input              			Process                                	Output                                               
+-----------------------------------------------------------	---------------------                                  How do I          	Listen to the 					Smile			
+get to the          	question and think 
+bathroom?       	about an answer
+			
+Check your mood    Determine the manner 			Don't smile, but try not to be rude 
 			and tone to use to 
 Person thanks you     communicate with 
 			the person asking 
