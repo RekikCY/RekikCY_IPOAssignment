@@ -3,6 +3,7 @@
 You will do this exercise in groups. 
 One person should type in the inputs. 
 One person should type in the outputs. 
+
 One person should type in the processes. 
 
 ### Put each IPO in a different file.  
@@ -10,13 +11,49 @@ One person should type in the processes.
 ## Hello world - where does the output go, and why? 
 
 |Input              |Process                                 |Output                                               |
-|-------------------|----------------------------------------|---------------------                                  |Question: How do I |
-| get to the        |
-|bathroom?          |
-|                   |
-|Check your mood    |
-|                   |
-|Person thanks you  |
+|-------------------|----------------------------------------|---------------------                                  |How do I          |Listen to the 
+|get to the          | question and think 
+|bathroom?        | about an answer
+		|	
+Check your mood|    |Determine the manner 
+			and tone to use to 
+Person thanks you     communicate with 
+			the person asking 
+			the question.
+
+			Determine where 
+			the bathroom is in
+			relation to your 
+			current location
+
+			Determine the landmarks 
+			that should be used to identify
+ 			if the user is on the right track,
+
+			Customer Service, or the 
+			student lounge 
+
+			Determine the landmarks
+			 that should be used to determine
+			 if the user has gone too far, e.g.
+
+			Room 408 (the room with a 
+			full-length glass window to the side)
+
+			If you are in a good mood
+
+			If you are not in a good mood
+
+			Determine the level of specificity 
+			the person asking the question will 
+			need - should I ask them to count steps,
+			 or will vague directions be enough? Tailor
+			 your output to the desired audience.
+			Understand that gratitude has been 
+			expressed and respond accordingly
+
+
+|         |
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
@@ -36,8 +73,8 @@ Determine where the bathroom is in relation to your current location
 
 Determine the manner and tone to use to communicate with the person asking the question.
 
-If you are in a good mood
-
+If you are in a good moodCustomer Service, or the student lounge
+Room 408 (the room with a full-length glass window to the side)
 If you are not in a good mood
 
 Determine the level of specificity the person asking the question will need - should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience.
