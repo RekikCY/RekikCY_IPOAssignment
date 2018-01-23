@@ -10,10 +10,13 @@ One person should type in the processes.
 ## Hello world - where does the output go, and why? 
 
 |Input              |Process                                 |Output                                               |
-|-------------------|----------------------------------------|-----------------------------------------------------|
-|                   |                                        | Speak:Hello                                         |
-|Person says:Hello  |Understand you have just been greeted   | Speak:Hello                                         |
-|                   |                                        | Speak:Hello                                         |
+|-------------------|----------------------------------------|---------------------                                  |Question: How do I |
+| get to the        |
+|bathroom?          |
+|                   |
+|Check your mood    |
+|                   |
+|Person thanks you  |
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
